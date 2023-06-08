@@ -1,2 +1,2 @@
 # www
-Site web Bertrand Kaernel
+Site web de  Bertrand Kaernel
